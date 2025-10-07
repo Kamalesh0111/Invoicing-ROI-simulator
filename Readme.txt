@@ -1,5 +1,9 @@
 Project Title: Invoice ROI Genie
 
+HOSTED LINKS :
+Frontend - https://invoicing-roi-simulator-khaki.vercel.app
+backend - https://invoicing-roi-simulator-hk31.onrender.com
+
 1. Project Overview
 We'll build a simple web app called Invoice ROI Genie. It will calculate the cost savings for businesses that switch to automated invoicing. Users can input their data, see the results instantly, save their calculations as "scenarios," and download a report after providing an email.
 
